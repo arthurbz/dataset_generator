@@ -130,3 +130,7 @@ dmypy.json
 
 # VS Code
 .vscode
+
+#Videos
+*.mp4
+*.avi
